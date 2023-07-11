@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,10 +47,8 @@ i need to work on overall work-flow and planning, also different ways to center 
 ### Useful resources
 
 - [resource 1](https://www.youtube.com/watch?v=qJVVZYTYA9U&ab_channel=KevinPowell) - This refreshed my mind and gave me some new ideas on how to vertically center
--
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@limeiscool](https://www.frontendmentor.io/profile/limeiscool)
 
